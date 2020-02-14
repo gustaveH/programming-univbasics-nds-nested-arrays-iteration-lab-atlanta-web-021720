@@ -9,9 +9,14 @@ def join_ingredients(src)
   
   new_Array= []
   index = 0
-  while index < src.count do
-    index_one = 0
-    while index_one < src
+  while index < src.count do 
+    index_two = 0 
+    while index_two < src[index].count do 
+      # My code goes here 
+      
+      index_two = index_two +1
+    end
+    index = index +1
   end
   
   
