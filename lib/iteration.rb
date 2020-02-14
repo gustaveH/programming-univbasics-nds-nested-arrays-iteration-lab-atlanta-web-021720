@@ -24,6 +24,7 @@ def find_greater_pair(src)
   index = 0 
   while index < src.count do
     new_Array << [1..10]
+    index
   end
   
   
