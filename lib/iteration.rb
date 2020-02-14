@@ -10,8 +10,8 @@ def join_ingredients(src)
   new_Array= []
   index = 0
   while index < src.count do 
-    <<"I love #{src[index][0]} and #{src[index][1]} on my pizza"
-    new_Array
+    new_Array<<"I love #{src[index][0]} and #{src[index][1]} on my pizza"
+    
     index = index +1
   end
   
