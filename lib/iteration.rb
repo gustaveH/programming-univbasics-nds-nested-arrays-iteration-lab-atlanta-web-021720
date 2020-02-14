@@ -13,7 +13,7 @@ def join_ingredients(src)
     index_two = 0 
     while index_two < src[index].count do 
       # My code goes here 
-      
+      "I love #{index_two} and #{index_two} on my pizza"
       index_two = index_two +1
     end
     index = index +1
