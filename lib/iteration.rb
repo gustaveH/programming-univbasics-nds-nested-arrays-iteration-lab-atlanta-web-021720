@@ -22,7 +22,9 @@ def find_greater_pair(src)
   # that are in the inner Arrays
   new_Array = []
   index = 0 
-  
+  while index < src.count do 
+    new_Array <<
+  end
   
 end
 
